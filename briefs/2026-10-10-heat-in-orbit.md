@@ -59,7 +59,7 @@ For scale, building a terrestrial data center commonly runs on the order of ~$10
 - **Radiation is real but manageable for inference.** Google's re-run accelerator tests showed slightly more logic errors than first measured, yet still about one error in a million for typical inference. Long training runs across thousands of chips are where it hurts.
 
 ### Why it matters to you
-- **Starcloud diligence (Fuse co-invest).** The three questions that separate a real plan from a slide: (1) radiator **kg per kW** and the assumed radiator temperature, (2) the launch $/kg in the base case and the year it's achieved, (3) end-of-life ε and solar degradation. If a deck doesn't state these, the economics aren't yet underwritten.
+- **Orbital-compute diligence.** The three questions that separate a real plan from a slide: (1) radiator **kg per kW** and the assumed radiator temperature, (2) the launch $/kg in the base case and the year it's achieved, (3) end-of-life ε and solar degradation. If a deck doesn't state these, the economics aren't yet underwritten.
 - **Steel thread to your power thesis.** You've argued that power, not GPUs, is the binding constraint on the ground because grid interconnects take years. Orbit swaps the *permitting* constraint for a *thermal-area* constraint. It doesn't remove the constraint, it converts it into launch mass. The winning business is whoever drives kg/MW down fastest.
 - **Founding-team angle.** Thermal and power engineering for compute (high-temperature-tolerant silicon, two-phase loops, deployable radiators) is an under-staffed specialty. Teams that pair ML-infrastructure people with thermal engineers are rare.
 
