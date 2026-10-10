@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Weekly Briefs</title>
+    <link>https://github.com/kmuktinu1980/weeklybriefs</link>
+    <description>Weekly deep-dive learning briefs: physical AI, orbital compute, agent context engineering, AI moonshots, strategy.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2026 16:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Oct 10, 2026 — Deep dive: Heat is the real wall in orbit</title>
+      <link>https://github.com/kmuktinu1980/weeklybriefs/blob/main/briefs/2026-10-10-heat-in-orbit.md</link>
+      <guid isPermaLink="false">weeklybriefs-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 16:00:00 GMT</pubDate>
+      <category>Space &amp; Orbital Compute</category>
+      <description>Each megawatt of orbital compute needs roughly 1,000 m² of radiator and 3,000 m² of solar array, so launch cost per kg decides whether space data centers beat the ground. Plus: humanoid shipments, GraphRAG benchmarks, this week's Nobels, CRM valuation, India AI funding.</description>
+    </item>
+  </channel>
+</rss>
